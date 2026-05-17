@@ -1,2 +1,0 @@
-pygame==2.6.1
-mathplotlib==3.8.2
